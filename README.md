@@ -15,7 +15,7 @@ Layout esperado para Desktop:
 Layout esperado para Mobile:
 
 <p align="center">
-  <img alt="Projeto Frontend Mentor" src="./design/design-mobile.png.png" width="50%">
+  <img alt="Projeto Frontend Mentor" src="./design/design-mobile.png.png" width="30%">
 </p>
 
 <br>
