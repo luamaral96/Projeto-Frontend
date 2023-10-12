@@ -7,7 +7,7 @@ Projeto realizado durante o módulo do curso - Exercício CSS Avançado Flexbox 
 Layout esperado para Desktop:
 
 <p align="center">
-  <img alt="Projeto Fronten Mentor" src="./design/design-desktop.png.png" width="100%">
+  <img alt="Projeto Frontend Mentor" src="./design/design-desktop.png.png" width="100%">
 </p>
 
 <br>
@@ -15,14 +15,14 @@ Layout esperado para Desktop:
 Layout esperado para Mobile:
 
 <p align="center">
-  <img alt="Projeto Fronten Mentor" src="./design/design-mobile.png" width="100%">
+  <img alt="Projeto Frontend Mentor" src="./design/design-mobile.png.png" width="100%">
 </p>
 
 <br>
 
 ## 🚀 Responsividade
 
-Não há um arquivo **responsivo.css** pelo fato de o cartão ser totalmente flexível. Mas pode ser adaptado conforme necessidade. Testado com responsive viewer.
+Não há um arquivo **responsivo.css** pelo fato de o cartão ser totalmente flexível. Mas pode ser adaptado conforme necessidade. Testado com Responsive Viewer.
 
 <br>
 
